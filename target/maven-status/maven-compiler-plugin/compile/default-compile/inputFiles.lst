@@ -1,0 +1,11 @@
+/home/anima3d/NetBeansProjects/Reto2Ciclo4/src/main/java/com/minticiclo4/Reto2Ciclo4/Reto2ciclo4Application.java
+/home/anima3d/NetBeansProjects/Reto2Ciclo4/src/main/java/com/minticiclo4/Reto2Ciclo4/service/UserService.java
+/home/anima3d/NetBeansProjects/Reto2Ciclo4/src/main/java/com/minticiclo4/Reto2Ciclo4/repository/ProductRepository.java
+/home/anima3d/NetBeansProjects/Reto2Ciclo4/src/main/java/com/minticiclo4/Reto2Ciclo4/model/Product.java
+/home/anima3d/NetBeansProjects/Reto2Ciclo4/src/main/java/com/minticiclo4/Reto2Ciclo4/repository/crud/ProductCrudRepository.java
+/home/anima3d/NetBeansProjects/Reto2Ciclo4/src/main/java/com/minticiclo4/Reto2Ciclo4/service/ProductService.java
+/home/anima3d/NetBeansProjects/Reto2Ciclo4/src/main/java/com/minticiclo4/Reto2Ciclo4/controller/UserController.java
+/home/anima3d/NetBeansProjects/Reto2Ciclo4/src/main/java/com/minticiclo4/Reto2Ciclo4/controller/ProductController.java
+/home/anima3d/NetBeansProjects/Reto2Ciclo4/src/main/java/com/minticiclo4/Reto2Ciclo4/model/User.java
+/home/anima3d/NetBeansProjects/Reto2Ciclo4/src/main/java/com/minticiclo4/Reto2Ciclo4/repository/crud/UserCrudRepository.java
+/home/anima3d/NetBeansProjects/Reto2Ciclo4/src/main/java/com/minticiclo4/Reto2Ciclo4/repository/UserRepository.java

@@ -1,0 +1,11 @@
+com/minticiclo4/Reto2Ciclo4/repository/crud/ProductCrudRepository.class
+com/minticiclo4/Reto2Ciclo4/repository/ProductRepository.class
+com/minticiclo4/Reto2Ciclo4/Reto2ciclo4Application.class
+com/minticiclo4/Reto2Ciclo4/controller/ProductController.class
+com/minticiclo4/Reto2Ciclo4/repository/crud/UserCrudRepository.class
+com/minticiclo4/Reto2Ciclo4/service/UserService.class
+com/minticiclo4/Reto2Ciclo4/controller/UserController.class
+com/minticiclo4/Reto2Ciclo4/model/Product.class
+com/minticiclo4/Reto2Ciclo4/repository/UserRepository.class
+com/minticiclo4/Reto2Ciclo4/model/User.class
+com/minticiclo4/Reto2Ciclo4/service/ProductService.class

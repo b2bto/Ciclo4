@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.minticiclo4.Reto2Ciclo4.Reto2ciclo4ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 40.867 s - in com.minticiclo4.Reto2Ciclo4.Reto2ciclo4ApplicationTests
